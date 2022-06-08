@@ -1,0 +1,40 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 08 Jun 2022 23:06:01 at https://elanta.app/nazar/starbelly-demo/home-1.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://elanta.app/nazar/starbelly-demo/home-1.html -O1 "C:\Users\User New\Downloads\Restaurnt" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+23:08:02	Error: 	"Not Found" (404) at link https://elanta.app/nazar/starbelly-demo/img/logo.svg (from https://elanta.app/nazar/starbelly-demo/gallery-1.html)
+23:08:02	Error: 	"Not Found" (404) at link https://elanta.app/nazar/starbelly-demo/img/illustrations/il1.png (from https://elanta.app/nazar/starbelly-demo/gallery-1.html)
+23:08:02	Error: 	"Not Found" (404) at link https://elanta.app/nazar/starbelly-demo/img/illustrations/il2.png (from https://elanta.app/nazar/starbelly-demo/gallery-1.html)
+23:08:02	Error: 	"Not Found" (404) at link https://elanta.app/nazar/starbelly-demo/img/icons/i1.svg (from https://elanta.app/nazar/starbelly-demo/gallery-1.html)
+23:08:02	Error: 	"Not Found" (404) at link https://elanta.app/nazar/starbelly-demo/img/icons/i2.svg (from https://elanta.app/nazar/starbelly-demo/gallery-1.html)
+23:08:02	Error: 	"Not Found" (404) at link https://elanta.app/nazar/starbelly-demo/img/icons/i3.svg (from https://elanta.app/nazar/starbelly-demo/gallery-1.html)
+23:08:02	Error: 	"Not Found" (404) at link https://elanta.app/nazar/starbelly-demo/img/products/5.png (from https://elanta.app/nazar/starbelly-demo/gallery-1.html)
+23:08:02	Error: 	"Not Found" (404) at link https://elanta.app/nazar/starbelly-demo/img/products/5(2).png (from https://elanta.app/nazar/starbelly-demo/gallery-1.html)
+23:08:02	Error: 	"Not Found" (404) at link https://elanta.app/nazar/starbelly-demo/img/products/5(3).png (from https://elanta.app/nazar/starbelly-demo/gallery-1.html)
+23:08:02	Error: 	"Not Found" (404) at link https://elanta.app/nazar/starbelly-demo/img/products/5(4).png (from https://elanta.app/nazar/starbelly-demo/gallery-1.html)
+23:08:02	Error: 	"Not Found" (404) at link https://elanta.app/nazar/starbelly-demo/img/products/6.png (from https://elanta.app/nazar/starbelly-demo/gallery-1.html)
+23:08:02	Error: 	"Not Found" (404) at link https://elanta.app/nazar/starbelly-demo/img/products/7.png (from https://elanta.app/nazar/starbelly-demo/gallery-1.html)
+23:08:02	Error: 	"Not Found" (404) at link https://elanta.app/nazar/starbelly-demo/img/products/8.png (from https://elanta.app/nazar/starbelly-demo/gallery-1.html)
+23:08:02	Error: 	"Not Found" (404) at link https://elanta.app/nazar/starbelly-demo/img/products/9.png (from https://elanta.app/nazar/starbelly-demo/gallery-1.html)
+23:08:02	Error: 	"Not Found" (404) at link https://elanta.app/nazar/starbelly-demo/img/products/10.png (from https://elanta.app/nazar/starbelly-demo/gallery-1.html)
+23:08:02	Error: 	"Not Found" (404) at link https://elanta.app/nazar/starbelly-demo/img/products/11.png (from https://elanta.app/nazar/starbelly-demo/gallery-1.html)
+23:08:02	Error: 	"Not Found" (404) at link https://elanta.app/nazar/starbelly-demo/img/products/12.png (from https://elanta.app/nazar/starbelly-demo/gallery-1.html)
+23:08:02	Error: 	"Not Found" (404) at link https://elanta.app/nazar/starbelly-demo/img/map.svg (from https://elanta.app/nazar/starbelly-demo/gallery-1.html)
+23:08:02	Error: 	"Not Found" (404) at link https://elanta.app/nazar/starbelly-demo/img/faces/1.png (from https://elanta.app/nazar/starbelly-demo/gallery-1.html)
+23:08:02	Error: 	"Not Found" (404) at link https://elanta.app/nazar/starbelly-demo/img/faces/2.png (from https://elanta.app/nazar/starbelly-demo/gallery-1.html)
+23:08:02	Error: 	"Not Found" (404) at link https://elanta.app/nazar/starbelly-demo/img/faces/3.png (from https://elanta.app/nazar/starbelly-demo/gallery-1.html)
+23:08:02	Error: 	"Not Found" (404) at link https://elanta.app/nazar/starbelly-demo/img/faces/4.png (from https://elanta.app/nazar/starbelly-demo/gallery-1.html)
+23:08:02	Error: 	"Not Found" (404) at link https://elanta.app/nazar/starbelly-demo/img/faces/5.png (from https://elanta.app/nazar/starbelly-demo/gallery-1.html)
+23:08:02	Error: 	"Not Found" (404) at link https://elanta.app/nazar/starbelly-demo/img/faces/6.png (from https://elanta.app/nazar/starbelly-demo/gallery-1.html)
+23:08:02	Error: 	"Not Found" (404) at link https://elanta.app/nazar/starbelly-demo/img/faces/7.png (from https://elanta.app/nazar/starbelly-demo/gallery-1.html)
+23:08:02	Error: 	"Not Found" (404) at link https://elanta.app/nazar/starbelly-demo/img/faces/8.png (from https://elanta.app/nazar/starbelly-demo/gallery-1.html)
+23:08:02	Error: 	"Not Found" (404) at link https://elanta.app/nazar/starbelly-demo/img/thank-icon.svg (from https://elanta.app/nazar/starbelly-demo/gallery-1.html)
+23:08:02	Error: 	"Not Found" (404) at link https://elanta.app/nazar/starbelly-demo/img/illustrations/il3.png (from https://elanta.app/nazar/starbelly-demo/gallery-1.html)
+23:08:02	Error: 	"Not Found" (404) at link https://elanta.app/nazar/starbelly-demo/img/logo-white.svg (from https://elanta.app/nazar/starbelly-demo/gallery-1.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 1 seconds : 184 links scanned, 154 files written (23010306 bytes overall) [19749119 bytes received at 163215 bytes/sec], 4464266 bytes transferred using HTTP compression in 92 files, ratio 23%, 30.6 requests per connection
+(29 errors, 0 warnings, 0 messages)
